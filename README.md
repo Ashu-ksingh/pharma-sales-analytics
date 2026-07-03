@@ -28,8 +28,8 @@ End-to-end data analytics project analyzing 6 years of pharmaceutical sales data
 ## What I Did
 1. **Data Cleaning** — Loaded raw CSV, converted date formats, extracted year/month, calculated total sales per month
 2. **SQL Analysis** — Wrote 4 queries: yearly sales trends, category ranking, best month per year, year over year growth
-3. **Power BI Dashboard** — Built 3-page interactive dashboard connected to cleaned CSV files
-
+3. **Power BI Dashboard** — Built 3-page interactive dashboard connected to cleaned CSV files with slicers, trend charts and category analysis
+   
 ## Dashboard Pages
 - **Page 1 — Sales Overview:** Total sales card, yearly trend line chart, sales by category bar chart, year slicer
 - **Page 2 — Category Analysis:** Best month per year table, year over year growth chart (positive/negative bars)
